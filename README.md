@@ -69,8 +69,8 @@ Service Providers
 - [Digifom GmbH ](#DigifomGmbH)
 - [DOLF Technologies Company Limited](#DOLF)
 - [Competentum](#Competentum)
-- [DRC Systems](#DRCSystems)
-- [EdCast](#EdCast)
+- [DRC Systems](#DRC Systems)
+- [EdCast](#DRC Systems)
 - [Edifice](#Edifice)
 - [ED.LAB](#edlab)
 - [Edly](#Edly)
@@ -84,31 +84,31 @@ Service Providers
 - [IDS Systems Pvt. Ltd.](#IDS)
 - [iLearn Middle East](#iLearnMiddleEast)
 - [ITpedia Solutions, LLC](#ITpedia)
-- [ITSolution Tunisia](#ITSolutionTunisia)
+- [ITSolution Tunisia](#ITSolution Tunisia)
 - [Jazkarta](#Jazkarta)
 - [LearniΦ](#Learni)
 - [leerX](#leerX)
-- [Main Street Computing](#MainStreetComputing)
-- [Magia EducaX](#MagiaEducaX)
+- [Main Street Computing](#Main Street Computing)
+- [Magia EducaX](#Magia EducaX)
 
 - [Maxcademy](#Maxcademy)
 - [MetaUniversidad](#MetaUniversidad)
-- [The MOOC Agency](#TheMOOCAgency)
+- [The MOOC Agency](#The MOOC Agency)
 - [MetaUniversidad](#MetaUniversidad)
-- [MOOC Markteplace](#MOOCMarkteplace)
+- [MOOC Markteplace](#MOOC Markteplace)
 - [MOOCsupport](#MOOCsupport)
-- [Morris Learning Design](#MorrisLearningDesign)
+- [Morris Learning Design](#Morris Learning Design)
 - [www.nividata.com](#www.nividata.com)
 - [Nowsoft LLC ](#Nowsoft)
-- [Perpetual Learning](#PerpetualLearning)
-- [Proversity.org](#Proversity.org)
-- [Savoir-faire Linux](#Savoir-faire)
+- [Perpetual Learning](#Perpetual Learning)
+- [Proversity.org](#Proversity.org )
+- [Savoir-faire Linux](#Savoir-faire Linux)
 - [Semantic Intelligent Technologies](#SIT)
-- [Sibasi Ltd](#SibasiLtd)
-- [Unify Technologies Pvt Ltd](#UnifyTechnologiesPvtLtd)
+- [Sibasi Ltd](#Sibasi Ltd)
+- [Unify Technologies Pvt Ltd](#Unify Technologies Pvt Ltd)
 - [Valutac](#Valutac)
 - [VeritasU](#VeritasU)
-- [VTeam Labs ](#VTeamLabs)
+- [VTeam Labs ](#VTeam Labs )
 - [Xprende](#Xprende)
 - [Dorenegar](#Dorenegar)
 
@@ -116,9 +116,17 @@ Search
 
 
 ### <span id="eduNEXT">eduNEXT</span>
-- 官网
-- GitHub地址
-- 成员及角色
+项目 | 具体
+---|---
+官网 | https://www.edunext.co/
+GitHub | https://github.com/eduNEXT
+博客地址 | https://www.edunext.co/blog/
+地址 | 哥伦比亚-Bogotá、意大利-米兰
+联系人 | [Juan Camilo Montoya](mailto:contact@edunext.co) CEO
+主要业务 | SaaS服务；定制功能开发；技术咨询服务；
+
+#### 成员及角色
+- 暂无介绍
 
 ### <span id="Appsembler">Appsembler</span>
 
@@ -167,11 +175,11 @@ GitHub | https://github.com/open-craft
 - [Lawrence McDaniel](https://lawrencemcdaniel.com/)
 
 
-分发
+## 分发
 - [bitnami](https://bitnami.com/stack/edx)
 - [IBM](https://s3.us.cloud-object-storage.appdomain.cloud/open-edx-trial/app/master/index.html#uzyzmo)
 
-媒体合作
+## 媒体合作
 - [Class Central](#classcentral)
 - [opensource.com](#opensource.com)
 - [IBL News](#iblnews)
