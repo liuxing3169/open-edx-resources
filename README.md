@@ -122,13 +122,26 @@ Search
 GitHub | https://github.com/eduNEXT
 博客地址 | https://www.edunext.co/blog/
 地址 | 哥伦比亚-Bogotá、意大利-米兰
-联系人 | [Juan Camilo Montoya](mailto:contact@edunext.co) CEO
+联系人 | [Juan Camilo Montoya](mailto:contact@edunext.co)
 主要业务 | SaaS服务；定制功能开发；技术咨询服务；
 
 #### 成员及角色
 - 暂无介绍
 
+
 ### <span id="Appsembler">Appsembler</span>
+项目 | 具体
+---|---
+官网 | https://www.appsembler.com/
+GitHub | https://github.com/appsembler
+博客地址 | https://www.appsembler.com/blog/
+地址 | Somerville, MA, United States
+联系人 | [Scott Taylor](mailto:scott@appsembler.com)
+主要业务 | Tahoe-快速启动一个自主品牌的Open edX；Virtual Labs-基于浏览器的虚拟IT培训动手实验室；Figures-轻量级Open edX数据分析；移动App；
+
+#### 成员及角色
+- 暂无介绍
+
 
 ### <span id="OpenCraft">OpenCraft</span>
 项目 | 具体
@@ -142,6 +155,7 @@ GitHub | https://github.com/open-craft
 
 #### 成员及角色
 - 暂无介绍
+
 
 ### <span id="RaccoonGang">Raccoon Gang</span>
 
