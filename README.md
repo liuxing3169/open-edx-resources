@@ -1233,7 +1233,12 @@ GitHub |
 ## 个人
 
 - Regis
-- [Lawrence McDaniel](https://lawrencemcdaniel.com/)
+  - [GitHub](https://github.com/regisb)
+  - [Blog](https://minutebutterfly.com/)
+  - [tutor](https://docs.tutor.overhang.io/)
+- Lawrence McDaniel
+  - [GitHub](https://github.com/lpm0073)
+  - [Blog](https://lawrencemcdaniel.com/)
 
 
 ## 分发
