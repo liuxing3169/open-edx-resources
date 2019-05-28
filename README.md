@@ -1244,3 +1244,6 @@ GitHub |
 - [Class Central](#classcentral)
 - [opensource.com](#opensource.com)
 - [IBL News](#iblnews)
+
+## License
+The documents in this repository is licensed under CC-BY-4.0 unless otherwise noted. Please see the [LICENSE](./LICENSE) file for details.
