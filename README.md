@@ -48,41 +48,33 @@ Sponsors
 
 
 Service Providers
-
 - [Abstract Technology GmbH](#Abstract)
 - [Accredible](#Accredible)
 - [aftermobile](#aftermobile)
 - [Agiliq](#Agiliq)
 - [Amir Tadrisi](#AmirTadrisi)
-- [Agiliq](#Agiliq)
-
 - [ASDC](#ASDC)
-- [ASM Technologies Ltd. ](#ASMTechnologiesLtd)
-- [ASDC](#ASDC)
+- [ASM Technologies Ltd.](#ASMTechnologiesLtd)
 - [BeDjango](#BeDjango)
 - [BigLMS](#BigLMS)
 - [bridgelk.com](#bridgelk)
-- [CloudSwyft Global Systems, Inc. ](#CloudSwyft)
+- [CloudSwyft Global Systems, Inc.](#CloudSwyft)
 - [Competentum](#Competentum)
 - [Cowhite Software](#Cowhite)
 - [curricu.me](#curricu)
-- [Digifom GmbH ](#DigifomGmbH)
+- [Digifom GmbH](#DigifomGmbH)
 - [DOLF Technologies Company Limited](#DOLF)
-- [Competentum](#Competentum)
-- [DRC Systems](#DRCSystems)
 - [EdCast](#EdCast)
 - [Edifice](#Edifice)
 - [ED.LAB](#edlab)
 - [Edly](#Edly)
 - [Edraak](#Edraak)
-- [E-ducation](#E-ducation)
 - [edunera](#edunera)
 - [eduStack](#eduStack)
 - [Eqra Tech](#EqraTech)
 - [ExtensionEngine](#ExtensionEngine)
-- [Global Education Services ](#GesX)
+- [Global Education Services](#GesX)
 - [IDS Systems Pvt. Ltd.](#IDS)
-- [iLearn Middle East](#iLearnMiddleEast)
 - [ITpedia Solutions, LLC](#ITpedia)
 - [ITSolution Tunisia](#ITSolutionTunisia)
 - [Jazkarta](#Jazkarta)
@@ -90,7 +82,6 @@ Service Providers
 - [leerX](#leerX)
 - [Main Street Computing](#MainStreetComputing)
 - [Magia EducaX](#MagiaEducaX)
-
 - [Maxcademy](#Maxcademy)
 - [MetaUniversidad](#MetaUniversidad)
 - [The MOOC Agency](#TheMOOCAgency)
@@ -98,17 +89,15 @@ Service Providers
 - [MOOC Markteplace](#MOOCMarkteplace)
 - [MOOCsupport](#MOOCsupport)
 - [Morris Learning Design](#MorrisLearningDesign)
-- [www.nividata.com](#www.nividata.com)
-- [Nowsoft LLC ](#Nowsoft)
+- [www.nividata.com](#nividata)
+- [Nowsoft LLC](#Nowsoft)
 - [Perpetual Learning](#PerpetualLearning)
-- [Proversity.org](#Proversity.org )
-- [Savoir-faire Linux](#Savoir-faireLinux)
+- [Proversity.org](#Proversity)
+- [Savoir-faire Linux](#SavoirfaireLinux)
 - [Semantic Intelligent Technologies](#SIT)
-
 - [Unify Technologies Pvt Ltd](#UnifyTechnologiesPvtLtd)
-
 - [VeritasU](#VeritasU)
-- [VTeam Labs ](#VTeamLabs)
+- [VTeam Labs](#VTeamLabs)
 - [Xprende](#Xprende)
 - [Dorenegar](#Dorenegar)
 
@@ -246,8 +235,8 @@ GitHub | https://github.com/aulasneo
 项目 | 具体
 ---|---
 官网 | http://serendipity.utpl.edu.ec/
-GitHub |
-博客地址 |
+GitHub | 暂无
+博客地址 | 暂无
 地址 |
 联系人 |
 主要业务 |
@@ -275,8 +264,8 @@ GitHub | https://github.com/Artistanbulpr
 项目 | 具体
 ---|---
 官网 | http://www.mehrparsict.com/  http://dorenegar.ir/
-GitHub |
-博客地址 |
+GitHub | 暂无
+博客地址 | 暂无
 地址 | 伊朗-德黑兰
 联系人 | https://www.linkedin.com/company/mehrepars
 主要业务 | 阿拉伯语，Open edX平台技术服务
@@ -303,8 +292,8 @@ GitHub | https://github.com/valutac
 项目 | 具体
 ---|---
 官网 | https://www.metastudio.org
-GitHub |
-博客地址 |
+GitHub | 暂无
+博客地址 | 暂无
 地址 |
 联系人 |
 主要业务 | 暂无介绍
@@ -332,7 +321,7 @@ GitHub | https://github.com/SibasiLtd
 ---|---
 官网 | https://www.pearson.com/asia/
 GitHub | OpenCraft技术支持?
-博客地址 |
+博客地址 | 暂无
 地址 |
 联系人 | [](mailto:)
 主要业务 | 高度教育，国际资格，英语学习，考试认证
@@ -346,7 +335,7 @@ GitHub | OpenCraft技术支持?
 ---|---
 官网 | https://www.walmart.com/
 GitHub | 暂无找到
-博客地址 |
+博客地址 | 暂无
 地址 |
 联系人 | [](mailto:)
 主要业务 |
@@ -474,7 +463,7 @@ GitHub | https://github.com/drc-systems
 ---|---
 官网 | https://www.e-ducation.cn/
 GitHub | https://github.com/e-ducation
-博客地址 | blog.e-ducation.cn
+博客地址 | http://blog.e-ducation.cn
 地址 | 中国-广州
 联系人 | [info@e-ducation.cn](mailto:info@e-ducation.cn)
 主要业务 | 课程制作与运营，Open edX平台技术服务。
@@ -506,6 +495,734 @@ GitHub | 暂无
 地址 | 印度-New Delhi
 联系人 | [info@manprax.com](mailto:info@manprax.com)
 主要业务 | 软件外包服务
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="Abstract">Abstract Technology GmbH</span>
+项目 | 具体
+---|---
+官网 | https://abstract-technology.com/
+GitHub | https://github.com/Abstract-Tech
+博客地址 | 暂无
+地址 | 德国-柏林，意大利-罗马
+联系人 | [Stefania Trabucchi](mailto:stefania.trabucchi@abstract-technology.de)
+主要业务 | 软件外包服务，Open edX技术服务
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="Accredible">Accredible</span>
+项目 | 具体
+---|---
+官网 | https://www.accredible.com/
+GitHub | https://github.com/accredible
+博客地址 | https://help.accredible.com/hc/en-us/categories/200956052
+地址 | 美国，加州，旧金山
+联系人 | [Alan Heppenstall](mailto:alan@accredible.com)
+主要业务 | 数字证书和徽章
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="aftermobile">aftermobile</span>
+项目 | 具体
+---|---
+官网 | 个人，无网站
+GitHub | 暂无
+博客地址 | 暂无
+地址 | 暂无
+联系人 | [Frank Tang](mailto:franktsh@gmail.com)
+主要业务 | Open edX安装，定制开发，XBlocks，App，故障排查
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="Agiliq">Agiliq</span>
+项目 | 具体
+---|---
+官网 | https://www.agiliq.com/
+GitHub | https://github.com/agiliq
+博客地址 | https://www.agiliq.com/blog/
+地址 | 印度-Hyderabad
+联系人 | [Shabda Raaj](mailto:shabda@agiliq.com)
+主要业务 | AWS,Google Cloud安装部署，配置，主题，第三方集成，定制模块开发，社交补充，数据可视化，apis连接。其他Python应用开发。
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="AmirTadrisi">Amir Tadrisi</span>
+项目 | 具体
+---|---
+官网 | 个人，无网站
+GitHub | 暂无
+博客地址 | 暂无
+地址 | 厄瓜多尔
+联系人 | [Amir Tadrisi](mailto:amirtds@gmail.com)
+主要业务 | 暂无
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="ASDC">ASDC</span>
+项目 | 具体
+---|---
+官网 | 个人，无网站
+GitHub | 暂无
+博客地址 | 暂无
+地址 | 沙特阿拉伯-利雅得
+联系人 | [admin](mailto:admin@algroup.com.sa)
+主要业务 | 暂无
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="ASMTechnologiesLtd">ASM Technologies Ltd.</span>
+项目 | 具体
+---|---
+官网 | https://www.asmltd.com/open-edx/
+GitHub | https://github.com/asmltd
+博客地址 | 暂无
+地址 | 印度-Bangalore
+联系人 | [Krishnan Narayana](mailto:edx@asmltd.com)
+主要业务 | 工业设计，软件设计，Open edX定制开发，物联网，孟买证交所上市公司
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="BeDjango">BeDjango</span>
+项目 | 具体
+---|---
+官网 | https://www.bedjango.com/services/openedx/
+GitHub | https://github.com/BeDjango
+博客地址 | https://www.bedjango.com/blog/categories/open-edx/
+地址 | 西班牙-塞维利亚
+联系人 | [David Munárriz](mailto:info-es@bedjango.com)
+主要业务 | Django项目开发，Open edX定制开发
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="BigLMS">BigLMS</span>
+项目 | 具体
+---|---
+官网 | http://www.biglms.com/
+GitHub | 暂无
+博客地址 | 暂无
+地址 | 美国-亚特兰大
+联系人 | [David Norwood](mailto:info@biglms.com)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="bridgelk">bridgelk.com</span>
+项目 | 具体
+---|---
+官网 | http://bridgelk.com/
+GitHub | 暂无
+博客地址 | 暂无
+地址 | 葡萄牙-里斯本
+联系人 | [info@bridgelk.com](mailto:info@bridgelk.com)
+主要业务 | 课程内容建设，Open edX学习平台
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="CloudSwyft">CloudSwyft Global Systems, Inc.</span>
+项目 | 具体
+---|---
+官网 | https://cloudswyft.com/
+GitHub | 暂无
+博客地址 | 暂无
+地址 | 菲律宾-马卡蒂市
+联系人 | [Dann Angelo De Guzman](mailto:dann@cloudswyft.com)
+主要业务 | SaaS服务，定制开发
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="Competentum">Competentum</span>
+项目 | 具体
+---|---
+官网 | https://competentum.com/
+GitHub | https://github.com/competentum
+博客地址 | https://competentum.com/library
+地址 | 纽约；华盛顿-Issaquah
+联系人 | [contact@competentum.com](mailto:contact@competentum.com)
+主要业务 | 引导客户在教育数字化转型中取得成功。 我们的团队为学术教育和专业培训提供全套创新教育解决方案，高级咨询，定制软件和内容开发服务。 我们与所有主要教育出版商和内容提供商，大学，EdTech公司以及大公司的L＆D部门合作。
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="Cowhite">Cowhite Software</span>
+项目 | 具体
+---|---
+官网 | https://django.cowhite.com/
+GitHub | https://github.com/cowhite
+博客地址 | 暂无
+地址 | 印度-Hyderabad
+联系人 | [bhaskar@cowhite.com](mailto:bhaskar@cowhite.com)
+主要业务 | 外包公司
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="curricu">curricu.me</span>
+项目 | 具体
+---|---
+官网 | https://curricu.me/
+GitHub | 暂无
+博客地址 | 暂无
+地址 | 美国-波士顿
+联系人 | [John Swope](mailto:john@curricu.me)
+主要业务 | Open edX定制开发
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="DigifomGmbH">Digifom GmbH</span>
+项目 | 具体
+---|---
+官网 | https://digifom.com/
+GitHub | 暂无
+博客地址 | 暂无
+地址 | 德国-多特蒙得
+联系人 | [Joey Fleck](mailto:fleck@digifom.com)
+主要业务 | 定制开发，网页设计
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="DOLF">DOLF Technologies Company Limited</span>
+项目 | 具体
+---|---
+官网 | http://www.dolftech.com/
+GitHub | 暂无
+博客地址 | 暂无
+地址 | 沙特阿拉伯利雅得/胡拜尔
+联系人 | [Saleh Alhumidi](mailto:humidi@dolftech.com)
+主要业务 | AR&VR沉浸式内容，在线学习系统，多媒体视频制作，技术服务，提供几种学习平台。
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="EdCast">EdCast</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="Edifice">Edifice</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="edlab">ED.LAB</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="Edly">Edly</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="Edraak">Edraak</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="edunera">edunera</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="eduStack">eduStack</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="EqraTech">Eqra Tech</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="ExtensionEngine">ExtensionEngine</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="GesX">Global Education Services</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="IDS">IDS Systems Pvt. Ltd.</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="ITpedia">ITpedia Solutions, LLC</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="ITSolutionTunisia">ITSolution Tunisia</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="Jazkarta">Jazkarta</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="Learni">LearniΦ</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="leerX">leerX</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="MainStreetComputing">Main Street Computing</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="MagiaEducaX">Magia EducaX</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="Maxcademy">Maxcademy</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="MetaUniversidad">MetaUniversidad</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="TheMOOCAgency">The MOOC Agency</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="MetaUniversidad">MetaUniversidad</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="MOOCMarkteplace">MOOC Markteplace</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="MOOCsupport">MOOCsupport</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="MorrisLearningDesign">Morris Learning Design</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="nividata">www.nividata.com</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="Nowsoft">Nowsoft LLC</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="PerpetualLearning">Perpetual Learning</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="Proversity">Proversity.org</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="SavoirfaireLinux">Savoir-faire Linux</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="SIT">Semantic Intelligent Technologies</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="UnifyTechnologiesPvtLtd">Unify Technologies Pvt Ltd</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="VeritasU">VeritasU</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="VTeamLabs">VTeam Labs</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="Xprende">Xprende</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="Dorenegar">Dorenegar</span>
+项目 | 具体
+---|---
+官网 |
+GitHub |
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
 
 #### 成员及角色
 - 暂无介绍
