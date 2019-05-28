@@ -326,6 +326,191 @@ GitHub | https://github.com/SibasiLtd
 #### 成员及角色
 - 暂无介绍
 
+
+### <span id="Pearson">Pearson</span>
+项目 | 具体
+---|---
+官网 | https://www.pearson.com/asia/
+GitHub | OpenCraft技术支持?
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 | 高度教育，国际资格，英语学习，考试认证
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="Walmart">Walmart</span>
+项目 | 具体
+---|---
+官网 | https://www.walmart.com/
+GitHub | 暂无找到
+博客地址 |
+地址 |
+联系人 | [](mailto:)
+主要业务 |
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="datasciencedojo">datasciencedojo</span>
+项目 | 具体
+---|---
+官网 | https://datasciencedojo.com/
+GitHub | https://github.com/datasciencedojo
+博客地址 | https://datasciencedojo.com/blog/
+地址 | Redmond, WA, United States
+联系人 | [help@datasciencedojo.com](mailto:help@datasciencedojo.com)
+主要业务 | 数据分析训练营，在线课程
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="vocareum">vocareum</span>
+项目 | 具体
+---|---
+官网 | https://www.vocareum.com/
+GitHub | https://github.com/vocareum
+博客地址 | 暂无
+地址 | San Jose, CA, United States
+联系人 | [info@vocareum.com](mailto:info@vocareum.com)
+主要业务 | 编程教育(大数据，数据科学，Web，机器人，嵌入式，网络安全，云计算，物联网)，线上实验室
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="iLearnMiddleEast">iLearn</span>
+项目 | 具体
+---|---
+官网 | https://www.ilearnme.com/
+GitHub | https://github.com/ilearninteractive
+博客地址 | 暂无
+地址 | 迪拜酋长国
+联系人 | [info@ilearnme.com](mailto:info@ilearnme.com)
+主要业务 | 内容开发，现有资料库，集成与托管，培训，Totara学习平台，OpenedX学习平台，iLearn Performance Pack
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="wso2">wso2</span>
+项目 | 具体
+---|---
+官网 | https://wso2.com/
+GitHub | https://github.com/wso2
+博客地址 | https://wso2.com/community
+地址 | Mountain View;New York;London;等
+联系人 | [](mailto:)
+主要业务 | 超500人的跨国型软件公司，完全开源。敏捷，开源系统集成商，电信，金融服务，银行，物联网
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="xtremelabs">xtremelabs</span>
+项目 | 具体
+---|---
+官网 | https://xtremelabs.io/
+GitHub | 暂无
+博客地址 | 暂无
+地址 | 华盛顿州雷德蒙市
+联系人 | [Info@XtremeLabs.io ](mailto:Info@XtremeLabs.io )
+主要业务 | 为财富500强公司和任何规模的组织提供IT培训环境
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="Gutenberg">Gutenberg Technology</span>
+项目 | 具体
+---|---
+官网 | https://www.gutenberg-technology.com/
+GitHub | https://github.com/Gutenberg-Technology
+博客地址 | https://blog.gutenberg-technology.com/en
+地址 | 暂无
+联系人 | [](mailto:)
+主要业务 | 为出版商，大学，企业提供数字化出版，学习平台，SaaS服务。
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="Arbisoft">Arbisoft</span>
+项目 | 具体
+---|---
+官网 | https://arbisoft.com/
+GitHub | https://github.com/arbisoft
+博客地址 | https://arbisoft.com/blog/
+地址 | Mckinney, TX, 75069, USA
+联系人 | [info@arbisoft.com](mailto:info@arbisoft.com)
+主要业务 | 软件外包服务公司，定制软件开发，web定制开发，App开发，数据服务和集成，3D游戏，测试和质量保证，Open edX服务。
+
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="drcsystems">drcsystems</span>
+项目 | 具体
+---|---
+官网 | https://www.drcsystems.com/
+GitHub | https://github.com/drc-systems
+博客地址 | 暂无
+地址 | 印度 Gandhinagar ，GIFT CITY
+联系人 | [info@drcsystems.com](mailto:info@drcsystems.com)
+主要业务 | 软件外包服务
+
+#### 成员及角色
+- 暂无介绍
+
+
+
+### <span id="EliteMBA">EliteMBA</span>
+项目 | 具体
+---|---
+官网 | https://www.e-ducation.cn/
+GitHub | https://github.com/e-ducation
+博客地址 | blog.e-ducation.cn
+地址 | 中国-广州
+联系人 | [info@e-ducation.cn](mailto:info@e-ducation.cn)
+主要业务 | 课程制作与运营，Open edX平台技术服务。
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="ABCOnlineCourses">ABC MOOCs</span>
+项目 | 具体
+---|---
+官网 | https://abconlinecourses.com/
+GitHub | 暂无
+博客地址 | https://abconlinecourses.com/blog/blog_index.html
+地址 | 南非-斯泰伦博斯
+联系人 | [info@abcmoocs.org](mailto:info@abcmoocs.org)
+主要业务 | IndonesiaX建立者，提供与Open edX相关的安装，外观定制，管理，App开发。
+
+#### 成员及角色
+- 暂无介绍
+
+
+### <span id="ManpraX">ManpraX Software LLP</span>
+项目 | 具体
+---|---
+官网 | http://manprax.com/
+GitHub | 暂无
+博客地址 | 暂无
+地址 | 印度-New Delhi
+联系人 | [info@manprax.com](mailto:info@manprax.com)
+主要业务 | 软件外包服务
+
+#### 成员及角色
+- 暂无介绍
+
+
 ---
 
 ## 个人
