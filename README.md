@@ -466,7 +466,7 @@ GitHub | https://github.com/e-ducation
 博客地址 | http://blog.e-ducation.cn
 地址 | 中国-广州
 联系人 | [info@e-ducation.cn](mailto:info@e-ducation.cn)
-主要业务 | 课程制作与运营，Open edX平台技术服务。
+主要业务 | 课程制作与运营，Open edX平台技术服务，SaaS服务，托管，单独部署，定制开发。
 
 #### 成员及角色
 - 暂无介绍
@@ -727,12 +727,12 @@ GitHub | 暂无
 ### <span id="EdCast">EdCast</span>
 项目 | 具体
 ---|---
-官网 |
-GitHub |
-博客地址 |
-地址 |
-联系人 | [](mailto:)
-主要业务 |
+官网 | https://www.edcast.com/
+GitHub | https://github.com/edcast
+博客地址 | https://www.edcast.com/corp/blog/
+地址 | 加州-山景城，荷兰-鹿特丹
+联系人 | [Daniel McKelvey](mailto:info@edcast.com)
+主要业务 | 知识云，工作流中进行学习，Open edX实例部署和托管，自定义开发。30天免费试用
 
 #### 成员及角色
 - 暂无介绍
@@ -741,12 +741,12 @@ GitHub |
 ### <span id="Edifice">Edifice</span>
 项目 | 具体
 ---|---
-官网 |
-GitHub |
-博客地址 |
-地址 |
-联系人 | [](mailto:)
-主要业务 |
+官网 | https://www.edifice.nu/
+GitHub | 暂无
+博客地址 | 暂无
+地址 | 荷兰-阿姆斯特丹
+联系人 | [INFO@EDIA.NL](mailto:INFO@EDIA.NL)
+主要业务 | 安装配置，托管，集成，定制，课程设计，手机客户端
 
 #### 成员及角色
 - 暂无介绍
@@ -755,12 +755,12 @@ GitHub |
 ### <span id="edlab">ED.LAB</span>
 项目 | 具体
 ---|---
-官网 |
-GitHub |
-博客地址 |
-地址 |
-联系人 | [](mailto:)
-主要业务 |
+官网 | https://www.edlab.xyz
+GitHub | https://github.com/EdLabXYZ
+博客地址 | https://www.dangtrinh.com/search?q=label:edx
+地址 | 越南，韩国
+联系人 | [Trinh Nguyen](mailto:dangtrinhnt@edlab.xyz)
+主要业务 | EdLab成立于2017年5月，由Trinh Nguyen创立，其使命是改变越南的教育体系。我们首先提供Open edX部署和定制以及其他教育工具开发。
 
 #### 成员及角色
 - 暂无介绍
@@ -769,12 +769,12 @@ GitHub |
 ### <span id="Edly">Edly</span>
 项目 | 具体
 ---|---
-官网 |
-GitHub |
-博客地址 |
-地址 |
-联系人 | [](mailto:)
-主要业务 |
+官网 | https://edly.io/
+GitHub | https://github.com/edly-io
+博客地址 | 暂无
+地址 | 麦金尼，德克萨斯州（美国）
+联系人 | [Ayaz Quraishi](mailto:ayaz.quraishi@edly.io)
+主要业务 | by arbisoft, 高等教育，K12,非盈利性组织，职场教育，在线学习整体解决方案，Open edX集成者
 
 #### 成员及角色
 - 暂无介绍
@@ -783,12 +783,12 @@ GitHub |
 ### <span id="Edraak">Edraak</span>
 项目 | 具体
 ---|---
-官网 |
-GitHub |
-博客地址 |
-地址 |
-联系人 | [](mailto:)
-主要业务 |
+官网 | https://www.edraak.org
+GitHub | https://github.com/Edraak
+博客地址 | https://blog.edraak.org/
+地址 | 约旦
+联系人 | [Shireen Yacoub](mailto:syacoub@qrf.org)
+主要业务 | 阿拉伯语，英语 Open edX技术服务，课程内容服务。
 
 #### 成员及角色
 - 暂无介绍
@@ -797,12 +797,13 @@ GitHub |
 ### <span id="edunera">edunera</span>
 项目 | 具体
 ---|---
-官网 |
-GitHub |
-博客地址 |
-地址 |
-联系人 | [](mailto:)
-主要业务 |
+官网 | http://www.edunera.com
+GitHub | 暂无
+博客地址 | 暂无
+地址 | 土耳其-伊斯坦布尔，Palo Alto CA, USA
+联系人 | [Esra Karademir](mailto:esra.karademir@edunera.com)
+主要业务 | 在线课程制作，教育咨询，解决方案提供，软件开发，Open edX安装配置定制开发，技术咨询
+
 
 #### 成员及角色
 - 暂无介绍
@@ -811,12 +812,12 @@ GitHub |
 ### <span id="eduStack">eduStack</span>
 项目 | 具体
 ---|---
-官网 |
-GitHub |
-博客地址 |
-地址 |
-联系人 | [](mailto:)
-主要业务 |
+官网 | https://www.edustack.org/
+GitHub | https://github.com/eduStack
+博客地址 | https://www.edustack.org/
+地址 | 中国-北京
+联系人 | [Joshua Tseng](mailto:info@edustack.org)
+主要业务 | 中国社区版Open edX镜像分发，技术支持
 
 #### 成员及角色
 - 暂无介绍
@@ -825,12 +826,12 @@ GitHub |
 ### <span id="EqraTech">Eqra Tech</span>
 项目 | 具体
 ---|---
-官网 |
-GitHub |
-博客地址 |
-地址 |
-联系人 | [](mailto:)
-主要业务 |
+官网 | http://eqratech.com/#/eqratech
+GitHub | 暂无
+博客地址 | 暂无
+地址 | 约旦-安曼
+联系人 | [Dr. Hussein Hiyassat](mailto:hiyassat@gmail.com)
+主要业务 | 领导中东地区IT行业的世界级系统集成商。无论有多大或多复杂，我们都拥有本地和国际关系以及技术知识来处理任何项目。
 
 #### 成员及角色
 - 暂无介绍
@@ -839,12 +840,12 @@ GitHub |
 ### <span id="ExtensionEngine">ExtensionEngine</span>
 项目 | 具体
 ---|---
-官网 |
-GitHub |
-博客地址 |
-地址 |
-联系人 | [](mailto:)
-主要业务 |
+官网 | http://extensionengine.com/
+GitHub | https://github.com/ExtensionEngine
+博客地址 | https://blog.extensionengine.com/
+地址 | 波士顿，纽约，克罗地亚斯普利特
+联系人 | [Scott Moore](mailto:scott@extensionengine.com)
+主要业务 | 定制的Open edX实例，平台和课程开发，教学设计，运营分析，自定义XBlock，主题，托管，持续维护和支持
 
 #### 成员及角色
 - 暂无介绍
